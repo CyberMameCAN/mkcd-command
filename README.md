@@ -4,7 +4,7 @@ mkdirとcdを同時に実行するシェルスクリプトです。
 
 ## mkcd.sh
 
-  #!/bin/sh
+  #!/bin/sh  
   mkdir $1 && cd $_
 
 ## 設定
