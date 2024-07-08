@@ -1,6 +1,6 @@
 # mkcd-command
 
-mkdirとcdを同時に実行するシェルスクリプトです。
+mkdirとcdを同時に実行するシェルスクリプトです。Bashで動作確認しています。
 
 ## mkcd.sh
 
